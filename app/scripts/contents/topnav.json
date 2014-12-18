@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Beranda",
+		"link": "#/"
+	},
+	{
+		"name": "Kurikulum",
+		"link": "javascript:",
+		"target": "#curriculum"
+	},
+	{
+		"name": "Teknologi",
+		"link": "javascript:",
+		"target": "#technology"
+	},
+	{
+		"name": "Komunitas",
+		"link": "javascript:",
+		"target": "#forum"
+	},
+	{
+		"name": "Hubungi Kami",
+		"link": "javascript:",
+		"target": "#contact-us"
+	}
+]
