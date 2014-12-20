@@ -18,7 +18,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'Kurikulum',
     			'description': 'Merupakan kumpulan pembelajaran aspek Multimedia secara terpadu.',
-    			'faClass': 'icon-dice',
+    			'faClass': 'icon-books',
                 'link': '#curriculum'
     		},
     		{
@@ -26,7 +26,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'Teknologi',
     			'description': 'Membahas teknologi yang dikembangkan, baik yang telah maupun yang akan menjadi material kurikulum berikutnya.',
-    			'faClass': 'icon-cogs',
+    			'faClass': ' icon-cog',
                 'link': '#technology'
     		},
     		{
@@ -34,7 +34,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'Komunitas',
     			'description': 'Ayo bergabung dengan komunitas-komunitas pendukung Fluider untuk berkonsultasi dan berdiskusi mengenai semua konten Multimedia yang disediakan oleh Fluider.',
-    			'faClass': 'icon-copy2',
+    			'faClass': ' icon-users',
                 'link': '#forum'
     		}
     	]
